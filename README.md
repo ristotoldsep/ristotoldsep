@@ -5,13 +5,17 @@
 ### When I'm not doing homework, I am learning different web technologies and creating projects.
 
 
-🤓 Currently looking for an internship/part-time position at a tech company where I could leverage my skills and improve my knowledge.
+🤓  I am looking for career opportunities mainly as a web/software developer, but would also like to intern in any tech related company to leverage my skills and improve my knowledge.
+
+😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
 
 ### Connect with me:
 
 [<img align="left" alt="Risto Tõldsep | Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />][facebook]
 [<img align="left" alt="Risto Tõldsep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ristotoldsep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or job opportunities. I will contact you as soon as possible.
 
 <br />
 
