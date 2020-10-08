@@ -1,6 +1,6 @@
-### Hi there, I'm Risto - a Full-Stack Web Developer 👋
+## Hi there, I'm Risto - a Full-Stack Web Developer 👋
 
-## I'm a Second-year student at TalTech specialising in Computer Systems Engineering.
+### I'm a Second-year student at TalTech specialising in Computer Systems Engineering.
 
 ### When I'm not doing homework, I am learning different web technologies and creating projects.
 
