@@ -14,11 +14,9 @@
 [<img align="left" alt="Risto Tõldsep | Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />][facebook]
 [<img align="left" alt="Risto Tõldsep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ristotoldsep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+
 Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or job opportunities. I will contact you as soon as possible.
-
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
