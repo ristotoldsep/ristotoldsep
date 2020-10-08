@@ -8,6 +8,7 @@
 🤓  I am looking for career opportunities mainly as a web/software developer, but would also like to intern in any tech related company to leverage my skills and improve my knowledge.
 
 😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
+
 ---
 ### Connect with me:
 
