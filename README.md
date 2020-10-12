@@ -2,7 +2,9 @@
 
 ### I'm a Second-year student at TalTech specialising in Computer Systems Engineering.
 
-### When I'm not doing homework, I am learning different web technologies and creating projects (Currently developing my portfolio website).
+### When I'm not doing homework, I am learning different web technologies and creating projects 
+
+###(Currently developing my portfolio website).
 
 
 🤓  I am looking for career opportunities mainly as a web/software developer, but would also like to intern in any tech related company to leverage my skills and improve my knowledge.
