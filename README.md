@@ -4,7 +4,7 @@
 
 ### When I'm not doing homework, I am learning different web technologies and creating projects 
 
-### 💻 Currently developing my portfolio website.
+### 💻 Currently developing my portfolio website. Progress so far ==> PORTFOLIO[portfolio]
 
 
 🤓  I am looking for career opportunities mainly as a web/software developer, but would also like to intern in any tech related company to leverage my skills and improve my knowledge.
@@ -46,6 +46,7 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 </details>
 
 [website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
+[portfolio]: https://ristotoldsep.github.io/
 [facebook]: https://www.facebook.com/risto.toldsep/
 [instagram]: https://www.instagram.com/ristotoldsep/
 [linkedin]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
