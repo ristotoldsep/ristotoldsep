@@ -46,7 +46,7 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 </details>
 
 [website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
-[Portfolio]: https://ristotoldsep.github.io/
+[Portfolio]: https://ristotoldsep.netlify.app/
 [facebook]: https://www.facebook.com/risto.toldsep/
 [instagram]: https://www.instagram.com/ristotoldsep/
 [linkedin]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
