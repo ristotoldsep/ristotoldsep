@@ -4,7 +4,7 @@
 
 ### I am passionate about creating intuitive and dynamic user experiences. 
 
-💻 My main interests lie on learning new technologies and bringing unique ideas into life.
+📚 My main interests lie on learning new technologies and bringing unique ideas into life.
 
 ### 💻 Currently developing my portfolio website. Progress so far ==> [Portfolio]
 
