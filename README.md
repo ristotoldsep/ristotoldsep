@@ -11,7 +11,7 @@
 🤓  I am looking for career opportunities mainly as a web/software developer, but would also like to intern in any tech related company to leverage my skills and improve my knowledge.
 
 😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
-Right now I am giving my all to mastering React.js and MERN Stack.
+Right now I am giving my all to mastering React.js and MERN Stack. Also trying out Wordpress/Elementor + WooCommerce/(possibli Shopify) for freelance work.
 
 ---
 ### Connect with me:
@@ -49,7 +49,7 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 </details>
 
 [website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
-[Portfolio]: https://ristotoldsep.netlify.app/
+[Portfolio]: https://ristotoldsep.eu/
 [facebook]: https://www.facebook.com/risto.toldsep/
 [instagram]: https://www.instagram.com/ristotoldsep/
 [linkedin]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
