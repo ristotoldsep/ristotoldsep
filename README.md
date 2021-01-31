@@ -12,7 +12,7 @@
 
 😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
 
-Currently working as a freelance Wordpress Developer and developing a multi-vendor e-commerce site for a client. In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other projects with PHP + MySql. 
+* Currently working as a freelance Wordpress Developer and developing a multi-vendor e-commerce site for a client. In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other projects with PHP + MySql. 
 
 ---
 ### Connect with me:
