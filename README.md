@@ -17,15 +17,15 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="Risto Tõldsep | Facebook" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2017/240/iconmonstr-facebook-6.png" />][facebook]
-[<img align="left" alt="Risto Tõldsep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ristotoldsep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Risto Tõldsep | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />][facebook]
+[<img align="left" alt="Risto Tõldsep | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" />][linkedin]
+[<img align="left" alt="ristotoldsep | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
 
 Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or job opportunities. I will contact you as soon as possible.
 <br />
 ### Languages and Tools: [My Tech Stack](https://github.com/ristotoldsep/My-Tech-Stack/blob/main/README.md)
 
-<img align="left" alt="Wordpress" width="26px" src="https://image.flaticon.com/icons/png/512/23/23763.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />
 <img align="left" alt="WooCommerce" width="26px" src="https://www.monkfishwebdesign.co.uk/wp-content/uploads/woocommerce-icon.png" />
 <img align="left" alt="Elementor" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/109_Elementor-512.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
