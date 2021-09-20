@@ -8,7 +8,7 @@
 
 ### 💻 Check Out My Portfolio Website ==> [Portfolio]
 
-## 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences. In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other projects with PHP + MySql. 
+### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences. In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other projects with PHP + MySql. 
 
 😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
 
