@@ -1,6 +1,6 @@
 ## Hi there, I'm Risto - a Full-Stack Web Developer 👋
 
-### I'm a Second-year student at TalTech specialising in Computer Systems Engineering.
+###  I'm in my final year of studies towards a Bachelor's in Computer Systems Engineering at TalTech.
 
 ### I am passionate about creating intuitive and dynamic user experiences. 
 
@@ -8,11 +8,9 @@
 
 ### 💻 Check Out My Portfolio Website ==> [Portfolio]
 
-🤓  I am looking for career opportunities mainly as a web/software developer, but would also like to intern in any tech related company to leverage my skills and improve my knowledge.
+🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences. In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other projects with PHP + MySql. 
 
 😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
-
-* Currently working as a freelance Wordpress Developer and developing a multi-vendor e-commerce site for a client. In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other projects with PHP + MySql. 
 
 ---
 ### Connect with me:
