@@ -2,7 +2,7 @@
 
 ###  I'm in my final year of studies towards a Bachelor's in Computer Systems Engineering at TalTech.
 
-### I am passionate about creating intuitive and dynamic user experiences. 
+### I am passionate about designing & building beautiful responsive web applications. 
 
 📚 My main interests lie on learning new technologies and bringing unique ideas into life.
 
