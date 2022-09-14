@@ -53,8 +53,6 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ristotoldsep's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ristotoldsep&show_icons=true&hide_border=true" />
-
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ristotoldsep/count.svg" />
