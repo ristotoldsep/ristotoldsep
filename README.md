@@ -1,6 +1,6 @@
 ## Hi there, I'm Risto - a Full-Stack Web Developer 👋
 
-###  I'm in my final year of studies towards a Bachelor's in Computer Systems Engineering at TalTech.
+###  I have graduated from Tallinn University of Technology with a Bachelor in Computer Systems Engineering.
 
 ### I am passionate about designing & building beautiful responsive web applications. 
 
