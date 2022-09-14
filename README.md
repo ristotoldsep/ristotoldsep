@@ -55,8 +55,6 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 
   <img align="left" alt="ristotoldsep's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ristotoldsep&show_icons=true&hide_border=true" />
 
-</details>
-
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ristotoldsep/count.svg" />
@@ -64,12 +62,9 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 
 <div align="center">
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=ristotoldsep&&show_icons=true&title_color=2ef2a7&icon_color=2ef2a7&text_color=efefef&bg_color=2E3440&hide_border=true">
-  
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ristotoldsep&theme=nord&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=2E3440&title_color=2ef2a7&hide_border=true">
-  
-  <img width="450px" src="https://github-profile-trophy.vercel.app/?username=ristotoldsep&theme=nord&column=4&no-frame=true&hide_border=true" alt="Risto Tõldsep Github Stats" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ristotoldsep&theme=nord&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=2E3440&title_color=2ef2a7&hide_border=true"> 
 </div> 
-
+</details>
 
 
 [website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
