@@ -57,6 +57,21 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 
 </details>
 
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/ristotoldsep/count.svg" />
+</p>
+
+<div align="center">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=ristotoldsep&&show_icons=true&title_color=2ef2a7&icon_color=2ef2a7&text_color=efefef&bg_color=2E3440&hide_border=true">
+  <img width="450px" src="https://leetcode.card.workers.dev/ristotoldsep?theme=nord&font=baloo">
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ristotoldsep&theme=nord&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=2E3440&title_color=2ef2a7&hide_border=true">
+  <img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=ristotoldsep&theme=nord&hide_border=true" alt="Risto Tõldsep Github Stats" />
+  <img width="450px" src="https://github-profile-trophy.vercel.app/?username=ristotoldsep&theme=nord&column=4&no-frame=true&hide_border=true" alt="Risto Tõldsep Github Stats" />
+</div> 
+
+
+
 [website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
 [Portfolio]: https://ristotoldsep.eu/
 [vDisain Projects]: https://github.com/ristotoldsep/vDisain-Projects
