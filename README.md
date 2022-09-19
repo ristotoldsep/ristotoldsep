@@ -10,9 +10,9 @@
 
 ### 💼 Wordpress websites & online stores I have developed in the workplace ==> [vDisain Projects]
 
-### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences. 
+### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization.  
 
-In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other projects with PHP + MySql. 
+In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other side projects with different stacks to enhance my skillset. 
 
 😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
 
