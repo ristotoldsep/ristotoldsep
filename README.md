@@ -28,6 +28,7 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 ### Languages and Tools: [My Tech Stack](https://github.com/ristotoldsep/My-Tech-Stack/blob/main/README.md)
 
 <img align="left" alt="Wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />
+<img align="left" alt="Wordpress" width="26px" src="https://www.drupal.org/files/Gatsby_Logo.png" />
 <img align="left" alt="WooCommerce" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/woocommerce-226060.png" />
 <img align="left" alt="Elementor" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/109_Elementor-512.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
