@@ -8,7 +8,7 @@
 
 ### 💻 Check Out My Portfolio Website ==> [Portfolio]
 
-### 💼 Wordpress websites & online stores I have developed in the workplace ==> [vDisain Projects]
+### 💼 Wordpress websites & online stores I have developed in the workplace for real clients ==> [vDisain Projects]
 
 ### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization.  
 
