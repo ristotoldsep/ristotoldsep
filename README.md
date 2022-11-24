@@ -10,7 +10,9 @@
 
 ### 💼 Wordpress websites & online stores I have developed in the workplace for real clients ==> [vDisain Projects]
 
-### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization.  
+### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization. 
+
+### Feel free to get in touch with me if you need a website or an online store! 📥
 
 In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other side projects with different stacks to enhance my skillset. 
 
