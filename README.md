@@ -12,7 +12,7 @@
 
 ### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization. 
 
-### <u>Feel free to get in touch with me if you need a website or an online store!</u> 📥
+### <ins>Feel free to get in touch with me if you need a website or an online store!</ins> 📥
 
 In my free time, I'm giving my all to mastering React.js and MERN Stack, also doing other side projects with different stacks to enhance my skillset. 
 
