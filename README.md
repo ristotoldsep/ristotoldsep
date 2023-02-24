@@ -8,7 +8,7 @@
 
 ### 💻 Check Out My Portfolio Website ==> [Portfolio]
 
-### 💼 Wordpress websites & online stores I have developed in the workplace for real clients ==> [vDisain Projects]
+### 💼 Wordpress websites & online stores I have developed in the workplace for real clients ==> [Wordpress Projects]
 
 ### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization. 
 
@@ -70,7 +70,7 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 
 [website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
 [Portfolio]: https://ristotoldsep.eu/
-[vDisain Projects]: https://github.com/ristotoldsep/vDisain-Projects
+[Wordpress Projects]: https://github.com/ristotoldsep/Wordpress-Projects
 [facebook]: https://www.facebook.com/risto.toldsep/
 [instagram]: https://www.instagram.com/ristotoldsep/
 [linkedin]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/ 
