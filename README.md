@@ -1,4 +1,4 @@
-## Hi there, I'm Risto - a Full-Stack Web Developer (front-end oriented) 👋
+## Hi there, I'm Risto - a Full-Stack Web Developer (front-end oriented) 👋 
 
 ###  I have graduated from Tallinn University of Technology with a Bachelor in Computer Systems Engineering.
 
