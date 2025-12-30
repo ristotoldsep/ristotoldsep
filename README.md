@@ -54,31 +54,9 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.deno.dev/ristotoldsep/count.svg" alt="Visitor Count" />
-</p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ristotoldsep&style=flat-square&color=2ef2a7" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ristotoldsep&style=flat-square&color=2ef2a7&base=5000" alt="Profile views" />
 </p>
-
-<div align="center">
-  <img
-    width="450"
-    src="https://github-readme-stats.vercel.app/api?username=ristotoldsep&show_icons=true&theme=nord&hide_border=true"
-    alt="GitHub stats"
-  />
-  <img
-    width="450"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ristotoldsep&layout=compact&langs_count=8&theme=nord&hide=jupyter%20notebook&hide_border=true"
-    alt="Top languages"
-  />
-</div>
-</details>
 
 
 [website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
