@@ -55,7 +55,7 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ristotoldsep&style=flat-square&color=2ef2a7&base=5000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ristotoldsep&style=for-the-badge&color=2ef2a7&base=5000" alt="Profile views" />
 </p>
 
 
