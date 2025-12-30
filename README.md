@@ -59,13 +59,25 @@ Feel free to get in touch with me. I am always open to discussing new projects, 
 
 <p align="center"> 
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/ristotoldsep/count.svg" />
+  <img src="https://profile-counter.deno.dev/ristotoldsep/count.svg" alt="Visitor Count" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ristotoldsep&style=flat-square&color=2ef2a7" alt="Profile views" />
 </p>
 
 <div align="center">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=ristotoldsep&&show_icons=true&title_color=2ef2a7&icon_color=2ef2a7&text_color=efefef&bg_color=2E3440&hide_border=true">
-  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ristotoldsep&theme=nord&hide=jupyter%20notebook&layout=compact&langs_count=8&bg_color=2E3440&title_color=2ef2a7&hide_border=true"> 
-</div> 
+  <img
+    width="450"
+    src="https://github-readme-stats.vercel.app/api?username=ristotoldsep&show_icons=true&theme=nord&hide_border=true"
+    alt="GitHub stats"
+  />
+  <img
+    width="450"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ristotoldsep&layout=compact&langs_count=8&theme=nord&hide=jupyter%20notebook&hide_border=true"
+    alt="Top languages"
+  />
+</div>
 </details>
 
 
