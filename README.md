@@ -8,11 +8,9 @@
 
 ### 💻 Check Out My Portfolio Website ==> [Portfolio]
 
-### 💼 Wordpress websites & online stores I have developed in the workplace for real clients ==> [Wordpress Projects]
-
 ### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization. 
 
-### Familiar with several languages/libraries/frameworks/platforms - Probably stronger in front-end, but aspiring to become an experienced full stack web developer. 5+ years of professional experience with PHP/Wordpress, also currently heavily focused on learning the React ecosystem + Headless CMS solutions and building projects with them.
+### Familiar with several languages/libraries/frameworks/platforms - 5+ years of professional experience with PHP/Wordpress, also currently heavily focused on learning the React ecosystem + Headless CMS solutions and building projects with them.
 
 ### <ins>Feel free to get in touch with me if you need a website or an online store!</ins> 📥
 
