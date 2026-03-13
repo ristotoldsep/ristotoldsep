@@ -41,7 +41,7 @@ I graduated from **Tallinn University of Technology** with a Bachelor's in Compu
 `WordPress` `WooCommerce` `Headless CMS` `Custom Themes` `Custom Plugins`
 
 **Tools & Other**
-`Git` `Figma` `Technical SEO` `AI APIs` `Make` `Zapier` `Google Analytics`
+`Git` `Figma` `Technical SEO` `AI APIs` `Make` `Zapier` `n8n` `Google Analytics`
 
 ---
 
