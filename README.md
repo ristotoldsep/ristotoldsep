@@ -73,7 +73,7 @@ Creative digital studio — custom websites, eCommerce builds, and brand experie
 - ⚙️ **Full Stack Development** — End-to-end apps built to scale and built to last
 - 🛒 **WordPress & WooCommerce** — Custom themes, plugins, multilingual stores
 - 📈 **Technical SEO** — Core Web Vitals, audits, data-driven content strategy
-- 🤖 **AI Integrations & Automations** — Chatbots, pipelines, workflow automation
+- 🤖 **AI Integrations & Automations** — Custom API integrations, Chatbots, pipelines, workflow automation
 - 🔧 **Maintenance & Support** — Security, updates, performance optimisation
 
 ---
