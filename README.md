@@ -1,65 +1,84 @@
-## Hi there, I'm Risto - a Full-Stack Web Developer 👋 
+<div align="center">
 
-###  I have graduated from Tallinn University of Technology with a Bachelor in Computer Systems Engineering.
+# Risto Tõldsep
+### Full Stack Developer · Tallinn, Estonia
 
-### I am passionate about designing & building beautiful responsive web applications. 
+*Building powerful web experiences — from scalable applications to AI-powered tools.*
 
-📚 My main interests lie on learning new technologies and bringing unique ideas into life.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ristotoldsep.eu-000000?style=for-the-badge&logo=safari&logoColor=white)](https://ristotoldsep.eu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ristotoldsep@gmail.com)
 
-### 💻 Check Out My Portfolio Website ==> [Portfolio]
-
-### 🤓  Currently working full time as a web developer/designer, mainly focused on crafting intuitive and dynamic user experiences (websites and eCommerce stores), while also focusing on SEO, security and optimization. 
-
-### Familiar with several languages/libraries/frameworks/platforms - 5+ years of professional experience with PHP/Wordpress, also currently heavily focused on learning the React ecosystem + Headless CMS solutions and building projects with them.
-
-### <ins>Feel free to get in touch with me if you need a website or an online store!</ins> 📥
-
-😎 I am a team player. I am outgoing, dedicated and open-minded. I usually get across to people and adjust to changes quickly. I believe that a person should work on developing their professional skills and learning new things all the time. 
-
----
-### Connect with me:
-
-[<img align="left" alt="Risto Tõldsep | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />][facebook]
-[<img align="left" alt="Risto Tõldsep | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" />][linkedin]
-[<img align="left" alt="ristotoldsep | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />][instagram]
-
-Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or job opportunities. I will contact you as soon as possible.
-<br />
-### Languages and Tools: [My Tech Stack](https://github.com/ristotoldsep/My-Tech-Stack/blob/main/README.md)
-
-<img align="left" alt="Wordpress" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/wordpress-35-569289.png" />
-<img align="left" alt="WooCommerce" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/woocommerce-226060.png" />
-<img align="left" alt="Elementor" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/109_Elementor-512.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NextJS" width="26px" src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="postgreSQL" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-11-1175122.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-network-round-gloss-shine/512/GitHub_Social-Network-Communicate-Page-Curl-Effect-Circle-Glossy-Shadow-Shine.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="C/C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-
-<br />
-<br />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ristotoldsep&style=for-the-badge&color=000000&base=5000" alt="Profile views" />
-</p>
+## About
 
+Full Stack Web Developer with 5+ years of hands-on experience delivering production-grade web applications, eCommerce platforms, and digital tools — both full-time and as a freelancer.
 
-[website]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/
-[Portfolio]: https://ristotoldsep.eu/
-[Wordpress Projects]: https://github.com/ristotoldsep/Wordpress-Projects
-[facebook]: https://www.facebook.com/risto.toldsep/
-[instagram]: https://www.instagram.com/ristotoldsep/
-[linkedin]: https://www.linkedin.com/in/risto-t%C3%B5ldsep-241b76199/ 
+I hold a Bachelor's degree in Computer Systems Engineering from Tallinn University of Technology. Over the course of my career I've shipped everything from pixel-perfect marketing sites to multi-language WooCommerce stores, custom REST APIs, headless CMS architectures, and AI-powered workflow automations — contributing to **250+ projects** across two of Tallinn's leading digital studios.
 
+I care deeply about code quality, performance, and real business outcomes. If you need a product that converts, a system that scales, or someone to eliminate your team's repetitive work through automation — that's exactly what I do.
+
+> 🟢 **Currently open to freelance projects**
+
+---
+
+## Tech Stack
+
+**Frontend**
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Vue` `Astro` `GSAP`
+
+**Backend**
+`PHP` `Laravel` `Node.js` `MySQL` `PostgreSQL` `Firebase` `REST APIs`
+
+**CMS & eCommerce**
+`WordPress` `WooCommerce` `Headless CMS` `Custom Themes` `Custom Plugins`
+
+**Tools & Other**
+`Git` `Figma` `Technical SEO` `AI APIs` `Make` `Zapier` `Google Analytics`
+
+---
+
+## Selected Work
+
+| Project | Stack | Description |
+|---|---|---|
+| [**Uusloo**](https://uusloo.hausers.ee/) | Laravel · Vue · Inertia.js | Full stack SPA — Laravel backend, Vue frontend, seamless server-side rendering via Inertia |
+| [**Snabb**](https://snabb.xyz/) | WordPress · PHP · Elementor | Unified parking, car wash & EV charging platform — 85,000+ users, 250+ locations |
+| [**Ribaana Horm**](https://ribaanahorm.ee/) | WordPress · ACF · Tailwind CSS | Fully custom PHP theme for an Estonian real estate broker, conversion-focused and pixel-perfect |
+| [**QiNutritionist**](https://qinutritionist.com/) | Headless WP · Astro · GraphQL | Headless WordPress with Astro frontend — auto-rebuilds on content updates via GraphQL |
+| [**Serene Sleep**](https://serenesleep.ee/) | WooCommerce · Custom Theme | Premium eCommerce store for luxury silk bedding — refined UX, OEKO-TEX certified showcase |
+
+---
+
+## Experience
+
+**Reaktiiv** · Full Stack Developer *(Current)*
+Tallinn-based digital agency — web design, development and branding for Baltic and international clients.
+
+**vDisain** · Full Stack Developer *(Previous)*
+Creative digital studio — custom websites, eCommerce builds, and brand experiences for clients across Europe and beyond.
+
+---
+
+## Services
+
+- **Web Design & UI/UX** — Conversion-focused interfaces, Figma to production
+- **Full Stack Development** — End-to-end apps built to scale
+- **WordPress & WooCommerce** — Custom themes, plugins, multilingual stores
+- **Technical SEO** — Core Web Vitals, audits, data-driven content strategy
+- **AI Integrations & Automations** — Chatbots, pipelines, workflow automation
+- **Maintenance & Support** — Security, updates, performance optimisation
+
+---
+
+<div align="center">
+
+**Let's build something great.**
+[ristotoldsep.eu](https://ristotoldsep.eu/) · [ristotoldsep@gmail.com](mailto:ristotoldsep@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=ristotoldsep&style=for-the-badge&color=000000&base=5000)
+
+</div>
