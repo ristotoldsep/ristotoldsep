@@ -52,7 +52,7 @@ I graduated from **Tallinn University of Technology** with a Bachelor's in Compu
 | [**Uusloo**](https://uusloo.hausers.ee/) | Laravel · Vue · Inertia.js | Full stack SPA — Laravel backend, Vue frontend, seamless server-side rendering via Inertia |
 | [**Snabb**](https://snabb.xyz/) | WordPress · PHP · Elementor | Unified parking, car wash & EV charging platform — 85,000+ users, 250+ locations |
 | [**Ribaana Horm**](https://ribaanahorm.ee/) | WordPress · ACF · Tailwind CSS | Fully custom PHP theme for an Estonian real estate broker, conversion-focused and pixel-perfect |
-| [**QiNutritionist**](https://qinutritionist.com/) | Headless WP · Astro · GraphQL | Headless WordPress with Astro frontend — auto-rebuilds on content updates via GraphQL |
+| [**QiNutritionist**](https://qinutritionist.com/) | Astro · Decap CMS · GSAP | Multi-language static site (EN/ET/ES) — git-based CMS for client content editing, automated deploys via GitHub Actions |
 | [**Serene Sleep**](https://serenesleep.ee/) | WooCommerce · Custom Theme | Premium eCommerce store for luxury silk bedding — refined UX, OEKO-TEX certified showcase |
 
 ---
