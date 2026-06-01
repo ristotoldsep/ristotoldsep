@@ -41,7 +41,7 @@ I graduated from **Tallinn University of Technology** with a Bachelor's in Compu
 `WordPress` `WooCommerce` `Headless CMS` `Custom Themes` `Custom Plugins`
 
 **Tools & Other**
-`Git` `Figma` `Technical SEO` `AI APIs` `Make` `Zapier` `n8n` `Google Analytics`
+`Git` `Figma` `Technical SEO` `AI APIs` `n8n` `Zapier` `GTM` `GA4` `Google Search Console` `Microsoft Clarity` `Meta Pixel`
 
 ---
 
@@ -49,6 +49,7 @@ I graduated from **Tallinn University of Technology** with a Bachelor's in Compu
 
 | Project | Stack | Description |
 |---|---|---|
+| [**Clarte**](https://clarte.ee/) | WooCommerce · ACF Blocks · Tailwind | Custom WooCommerce store for a premium skincare brand — GTM, GA4, Google Search Console, Microsoft Clarity & Meta Pixel with custom event tracking |
 | [**Uusloo**](https://uusloo.hausers.ee/) | Laravel · Vue · Inertia.js | Full stack SPA — Laravel backend, Vue frontend, seamless server-side rendering via Inertia |
 | [**Snabb**](https://snabb.xyz/) | WordPress · PHP · Elementor | Unified parking, car wash & EV charging platform — 85,000+ users, 250+ locations |
 | [**Ribaana Horm**](https://ribaanahorm.ee/) | WordPress · ACF · Tailwind CSS | Fully custom PHP theme for an Estonian real estate broker, conversion-focused and pixel-perfect |
@@ -72,8 +73,8 @@ Creative digital studio — custom websites, eCommerce builds, and brand experie
 - 🎨 **Web Design & UI/UX** — Conversion-focused interfaces, Figma to production
 - ⚙️ **Full Stack Development** — End-to-end apps built to scale and built to last
 - 🛒 **WordPress & WooCommerce** — Custom themes, plugins, multilingual stores
-- 📈 **Technical SEO** — Core Web Vitals, audits, data-driven content strategy
-- 🤖 **AI Integrations & Automations** — Custom API integrations, Chatbots, pipelines, workflow automation
+- 📈 **SEO, AEO, GEO & Digital Marketing** — Technical SEO, Core Web Vitals, full analytics setup (GTM, GA4, Search Console, Clarity, Meta Pixel with custom event tracking), Google & Meta ad campaigns. **AEO** (Answer Engine Optimization) gets your content into AI answer boxes and voice search; **GEO** (Generative Engine Optimization) gets tools like ChatGPT and Perplexity to surface and cite your business
+- 🤖 **AI Integrations & Automations** — Custom API integrations, chatbots, pipelines, workflow automation
 - 🔧 **Maintenance & Support** — Security, updates, performance optimisation
 
 ---
