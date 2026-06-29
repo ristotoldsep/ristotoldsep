@@ -52,9 +52,11 @@ I graduated from **Tallinn University of Technology** with a Bachelor's in Compu
 | [**Clarte**](https://clarte.ee/) | WooCommerce · ACF Blocks · Tailwind | Custom WooCommerce store for a premium skincare brand — GTM, GA4, Google Search Console, Microsoft Clarity & Meta Pixel with custom event tracking |
 | [**Uusloo**](https://uusloo.hausers.ee/) | Laravel · Vue · Inertia.js | Full stack SPA — Laravel backend, Vue frontend, seamless server-side rendering via Inertia |
 | [**Snabb**](https://snabb.xyz/) | WordPress · PHP · Elementor | Unified parking, car wash & EV charging platform — 85,000+ users, 250+ locations |
-| [**Ribaana Horm**](https://ribaanahorm.ee/) | WordPress · ACF · Tailwind CSS | Fully custom PHP theme for an Estonian real estate broker, conversion-focused and pixel-perfect |
+| [**Ribaana Horm**](https://ribaanahorm.ee/) | WordPress · ACF · Tailwind CSS | Fully custom PHP theme for an Estonian real estate broker, conversion-focused and pixel-perfect — plus a custom KV.ee integration plugin that imports listings daily from the KV.ee XML feed into a custom post type with an AJAX-filterable listings block |
 | [**QiNutritionist**](https://qinutritionist.com/) | Astro · Decap CMS · GSAP | Multi-language static site (EN/ET/ES) — git-based CMS for client content editing, automated deploys via GitHub Actions |
 | [**Serene Sleep**](https://serenesleep.ee/) | WooCommerce · Custom Theme | Premium eCommerce store for luxury silk bedding — refined UX, OEKO-TEX certified showcase |
+| [**Kütimetsa**](https://kutimetsa.hausers.ee/) | WordPress · ACF Blocks · Tailwind | Sales landing page for a boutique 12-home townhouse development in Peetri — custom theme with a Vite-built per-block asset pipeline, conversion-focused and pixel-perfect |
+| [**Paavli Kvartal**](https://paavli.ee/) | WordPress · ACF Blocks · GSAP | Custom theme for a creative business quarter in North Tallinn — custom post types, a filterable interactive map, full-page section-snapping scroll, plus a custom event-importer plugin that scrapes the cultural centre's programme and smart-syncs events twice daily |
 
 ---
 
