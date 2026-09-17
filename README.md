@@ -58,7 +58,6 @@ Full write-ups with the problem, the build and the stack are at **[ristotoldsep.
 | [**QiNutritionist**](https://ristotoldsep.eu/work/qinutritionist-multilingual-astro-site/) · [site ↗](https://qinutritionist.com/) | Astro · Decap CMS · GSAP | Multi-language static site (EN/ET/ES) — git-based CMS for client editing, automated GitHub Actions deploys, no server to maintain |
 | [**Serene Sleep**](https://ristotoldsep.eu/work/serene-sleep-woocommerce-silk-bedding/) · [site ↗](https://serenesleep.ee/) | WooCommerce · Custom Theme | Premium eCommerce store for luxury silk bedding — refined UX, OEKO-TEX certified showcase |
 | [**Uusloo**](https://ristotoldsep.eu/work/uusloo-laravel-vue-website/) · [site ↗](https://uusloo.hausers.ee/) | Laravel · Vue · Inertia.js | Full-stack SPA — Laravel backend, Vue frontend, joined by Inertia so there's no separate API to maintain |
-| [**Kütimetsa**](https://kutimetsa.hausers.ee/) | WordPress · ACF Blocks · Tailwind | Sales landing page for a boutique 12-home townhouse development in Peetri — custom theme with a Vite-built per-block asset pipeline |
 
 ---
 
